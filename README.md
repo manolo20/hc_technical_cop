@@ -64,3 +64,5 @@ Potential software:
 - VS Code text editor with Python extension.
 
 - Access to the command terminal: extremely important to install packages in Python through pip installation.
+
+- Ability to run scripts over night (avoid computer shutdown)
