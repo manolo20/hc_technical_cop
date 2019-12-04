@@ -20,11 +20,11 @@ Proposed Agenda:
     
     2.2. Software for data science
 
-3.	Dashboard presentation
+3.	Dashboard presentation - Andrew Bonner
 
-4.	Suggestions / next presentation 
-
-
+4.	Suggestions / next presentation (RStudio and Python (data manipulation, visualization, web-scraping, APIs, etc.), Git, Machine Learning, etc.)
+    
+    
 Potential software:
 
 - R	Programming Language:	A programming language and free software environment for statistical computing and graphics. The R language is widely used among statisticians and data miners for developing statistical software and data analysis
