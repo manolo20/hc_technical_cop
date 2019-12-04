@@ -6,13 +6,13 @@ Dec 5th, 2019
 
 Proposed Agenda:
 
-1.	Introduction of new members - round table
+1.	Round table 
     
-    What programming software do you use?
+    Where do you work?
+    
+    What programming software do you use at work?
     
     What are you interested in learning through this community of practice?
-    
-    Are you currently working on a data science project? If yes, please give a brief explanation of your project.
     
 2.	Purpose and structure of the technical community of practice
     
