@@ -1,4 +1,4 @@
-# :maple_leaf: :microscope: HC technical community of practice :microscope: :maple_leaf:
+# :maple_leaf: :microscope: :woman_health_worker: HC technical community of practice :man_health_worker: :microscope: :maple_leaf:
 
 :christmas_tree: :santa: :chart_with_upwards_trend:
 
