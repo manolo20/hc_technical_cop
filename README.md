@@ -1,4 +1,6 @@
-# HC technical community of practice
+# :maple_leaf: :microscope: HC technical community of practice :microscope: :maple_leaf:
+
+:christmas_tree: :santa: :chart_with_upwards_trend:
 
 ## First meeting:
 
