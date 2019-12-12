@@ -66,3 +66,10 @@ Potential software:
 - Access to the command terminal: extremely important to install packages in Python through pip installation.
 
 - Ability to run scripts over night (avoid computer shutdown)
+
+Software for Bayesian Statistics:
+- JAGS (RJAGS - Just Another Gibbs Sampler) program for simulation from Bayesian hierarchical models using Markov chain Monte Carlo (MCMC)
+
+- STAN (RStan - integration with the R software environment / PyStan - integration with the Python programming language) probabilistic programming language for statistical inference written in C++.[1] The Stan language is used to specify a (Bayesian) statistical model with an imperative program calculating the log probability density function.
+
+
