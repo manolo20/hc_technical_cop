@@ -1,0 +1,3 @@
+[submodule "CoP_presentation/CoP_example_app"]
+	path = CoP_presentation/CoP_example_app
+	url = https://github.com/gracewang80/Personal.git
